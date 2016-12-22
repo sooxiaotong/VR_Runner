@@ -1,6 +1,6 @@
 # VR-Runner
 
 - Work in progress
-- Originally made for Github Game Off 2016 but I did not get it done in tine
+- Originally made for Github Game Off 2016 but I did not get it done in time
 - uses Unity 5.4.2
 - For learning purpose
